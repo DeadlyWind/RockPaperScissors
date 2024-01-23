@@ -11,5 +11,5 @@ This is a simple game of Rock-Paper-Scissors. Rock beats scissors, Scissors beat
 
 You can play directly in your browser here:
 
-![image](https://github.com/DeadlyWind/RockPaperScissors/assets/157410349/e2e4dc00-239e-47ae-b0d0-0cf267d0a853)
+[![image](https://github.com/DeadlyWind/RockPaperScissors/assets/157410349/e2e4dc00-239e-47ae-b0d0-0cf267d0a853) />](https://replit.com/@alextodorov11/RockPaperScissors)
 

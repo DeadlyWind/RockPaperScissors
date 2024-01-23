@@ -6,3 +6,10 @@ This is a simple game of Rock-Paper-Scissors. Rock beats scissors, Scissors beat
 ## Screenshots:
 ![image](https://github.com/DeadlyWind/RockPaperScissors/assets/157410349/8583af27-178d-4041-b882-8be65b24bef5)
 ![image](https://github.com/DeadlyWind/RockPaperScissors/assets/157410349/216a66a5-448b-4e13-8793-e456a2f738db)
+
+## Live Demo
+
+You can play directly in your browser here:
+
+![image](https://github.com/DeadlyWind/RockPaperScissors/assets/157410349/e2e4dc00-239e-47ae-b0d0-0cf267d0a853)
+
